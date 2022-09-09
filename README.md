@@ -43,3 +43,9 @@ Here are some ideas to get you started:
 
 
 ## Technical Skills
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalling93&layout=compact)](https://github.com/aalling93/github-readme-stats)
