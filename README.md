@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="figs/banner.png" alt="My own banner" class="center">
 
@@ -6,7 +5,7 @@
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://www.linkedin.com/in/ksoerensen/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaaso@space.dtu.dk)
 
-
+## Hi there 😄
 
 
 <!--
