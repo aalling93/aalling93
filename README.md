@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-## Some Projects
+## Some projects
 
 
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | Radio Frequency Interference in Sentinel-1 SAR iamges | Probibalistic Trajectory Prediction of ships in Complex Scenarios | Automatic Oil Spill Detection | Fire detection |
 
 
-## Some Tools
+## Some tools
 
 
 
@@ -44,7 +44,22 @@ Here are some ideas to get you started:
 | Sentinel-1 SAR in Python. Download data easily (NO LTR!). Process data and stuff | AIS data. Download it and clean it and stuff | Sentinel-2 MSI in Python. Download data and work with it and stuff | Fire detection |
 
 
-## Scientific Skills
+
+## Something written
+
+
+
+| [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)  | [![alt-text-1](figs//ais_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   |
+|:---:|:---:|:---:|:---:|
+| Sentinel-1 SAR in Python. Download data easily (NO LTR!). Process data and stuff | AIS data. Download it and clean it and stuff | Sentinel-2 MSI in Python. Download data and work with it and stuff | Fire detection |
+
+
+
+
+
+##  Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalling93&layout=compact)](https://github.com/aalling93/github-readme-stats)   
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,11 +75,3 @@ Here are some ideas to get you started:
 
 
 
-
-## Technical Skills
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalling93&layout=compact)](https://github.com/aalling93/github-readme-stats)
