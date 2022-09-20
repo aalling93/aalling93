@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 -->
 
 
+| [![alt-text-1](figs//proj1.png "title-1")](something)  | [![alt-text-1](figs//proj2.png "title-1")](something) | [![alt-text-1](figs//proj3.png "title-1")](something) | [![alt-text-1](figs//proj4.png "title-1")](something) |
+|:---:|:---:|:---:|:---:|
+| Radio Frequency Interference in Sentinel-1 SAR iamges | Probibalistic Trajectory Prediction of ships in Complex Scenarios | Automatic Oil Spill Detection | Fire detection |
+
+
+
+
+
+
 ## Scientific Skills
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
