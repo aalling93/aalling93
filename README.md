@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-| [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)  | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   |
+| [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)  | [![alt-text-1](figs//ais_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   | [![alt-text-1](figs//s1_illu.png "title-1")](https://github.com/aalling93/Sentinel_1_python)   |
 |:---:|:---:|:---:|:---:|
 | Sentinel-1 SAR in Python. Download data easily (NO LTR!). Process data and stuff | AIS data. Download it and clean it and stuff | Sentinel-2 MSI in Python. Download data and work with it and stuff | Fire detection |
 
