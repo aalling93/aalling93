@@ -5,6 +5,10 @@
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.lsantos.dev)](https://www.linkedin.com/in/ksoerensen/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaaso@space.dtu.dk)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalling93&label=Profile%20views&color=0e75b6&style=flat" alt="aalling93" /> </p>
+
+
 ## Hi there 😄
 
 
@@ -22,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
@@ -58,6 +63,9 @@ Here are some ideas to get you started:
 
 
 ##  Skills
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalling93" alt="aalling93" /></a> </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalling93&layout=compact)](https://github.com/aalling93/github-readme-stats)   
 
