@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
 
 
-## Some projects
+
+### Some projects
 
 
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 | Sentinel-1 SAR in Python. Download data easily (NO LTR!). Process data and stuff | AIS data. Download it and clean it and stuff | Sentinel-2 MSI in Python. Download data and work with it and stuff | Fire detection |
 
 
-
+-->
 
 
 ##  Skills
